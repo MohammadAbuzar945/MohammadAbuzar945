@@ -25,22 +25,22 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
 
 ## Languages
-    C
+**    C
     C++
     Java
-    HTML5/CSS3
+    HTML5/CSS3**
 
 ## Databases
-    Microsoft SQL Server
+   ** Microsoft SQL Server
     MySQL
-
+**
 ## Other Tools & Technologies
 
-    SSIS
+  **  SSIS
     SSAS
     Ubuntu
     Microsoft Word/Excel/PowerPoint/Visio
-    Balsamiq Tool
+    Balsamiq Tool**
     
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945)](https://github.com/anuraghazra/github-readme-stats)
