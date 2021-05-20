@@ -25,18 +25,17 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
 
 ## Languages
-    **   C
+      **C
         C++
         Java
-        HTML5/CSS3 **
+        HTML5/CSS3**
 
 ## Databases
-       ** Microsoft SQL Server
-        MySQL
-**
+       **Microsoft SQL Server
+        MySQL**
 ## Other Tools & Technologies
 
-      **  SSIS
+      **SSIS
         SSAS
         Ubuntu
         Microsoft Word/Excel/PowerPoint/Visio
