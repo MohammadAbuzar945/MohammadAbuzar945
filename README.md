@@ -35,6 +35,7 @@ https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
 ## Databases
         Microsoft SQL Server
         MySQL
+        Firebase
 ## Other Tools & Technologies
 
         SSIS
