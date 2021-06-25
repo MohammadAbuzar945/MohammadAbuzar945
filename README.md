@@ -40,6 +40,7 @@ https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
         SSIS
         SSAS
         Ubuntu
+        Jupyter Notebook 
         Microsoft Word/Excel/PowerPoint/Visio
         Balsamiq Tool
     
