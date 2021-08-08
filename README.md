@@ -30,13 +30,17 @@ https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
         C++
         Python
         Java
-        HTML5/CSS3
+        HTML5/CSS3      
+        Javascript
+        JQuery
+
         
 
 ## Databases
         Microsoft SQL Server
         MySQL
         Firebase
+        MongoDB
 ## Other Tools & Technologies
 
         SSIS
