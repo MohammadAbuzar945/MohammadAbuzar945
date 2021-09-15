@@ -47,6 +47,8 @@ https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
         SSAS
         Ubuntu
         Jupyter Notebook 
+        Anaconda
+        Visual Studio Code
         Microsoft Word/Excel/PowerPoint/Visio
         Balsamiq Tool
     
