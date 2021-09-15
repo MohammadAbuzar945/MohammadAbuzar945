@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohammadAbuzar945&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with me
-https://www.linkedin.com/in/mohammad-abuzar-ashraf-8530831aa/
+LinkedIn:https://www.linkedin.com/in/mohammad-a-8530831aa
+Email@:abuzarmohammad945@gmail.com
 
 
 ## Languages
