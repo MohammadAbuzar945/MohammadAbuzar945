@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/mohammad-a-8530831aa">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/muhammdabuzar/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://web.facebook.com/abuzarashraf945/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -40,9 +39,6 @@ Here are some ideas to get you started:
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/mohammad-a-8530831aa) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/muhammdabuzar/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://web.facebook.com/abuzarashraf945/)  -->
 
-## Connect with me
-        LinkedIn: https://www.linkedin.com/in/mohammad-a-8530831aa
-        Email@  : abuzarmohammad945@gmail.com
 
 
 ## Languages
