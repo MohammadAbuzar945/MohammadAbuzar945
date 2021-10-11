@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohammadAbuzar945&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/mohammad-a-8530831aa) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/muhammdabuzar/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://web.facebook.com/abuzarashraf945/)  -->
+
 ## Connect with me
         LinkedIn: https://www.linkedin.com/in/mohammad-a-8530831aa
         Email@  : abuzarmohammad945@gmail.com
