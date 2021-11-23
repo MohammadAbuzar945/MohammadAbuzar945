@@ -47,6 +47,8 @@ Here are some ideas to get you started:
         HTML5/CSS3/Bootstrap      
         Javascript
         JQuery
+        ReactJs
+        
 
         
 
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
         Visual Studio Code
         Microsoft Word/Excel/PowerPoint/Visio
         Balsamiq Tool
-    
+        Microsoft Project Management
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945)](https://github.com/anuraghazra/github-readme-stats)
 
