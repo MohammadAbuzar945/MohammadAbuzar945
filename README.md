@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/mohammad-a-8530831aa">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/muhammdabuzar/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.instagram.com/abuzar.945/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://web.facebook.com/abuzarashraf945/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
 
 
