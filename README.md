@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/mohammad-a-8530831aa">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/abuzar.945/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/abuzar945">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/justabuzar/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://web.facebook.com/abuzarashraf945/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
 
 
-<a href="https://www.linkedin.com/in/mohammad-a-8530831aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/muhammdabuzar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/abuzar945" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/justabuzar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://web.facebook.com/abuzarashraf945/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
@@ -40,15 +40,17 @@ Here are some ideas to get you started:
 
 
 ## Languages
-        C
-        C++
+        C/C++
+        Rust
+        Solidity
         Python
         Java
         HTML5/CSS3/Bootstrap      
         Javascript
         JQuery
         ReactJs
-        Solidity
+        
+
         
 
         
@@ -58,10 +60,12 @@ Here are some ideas to get you started:
         MySQL
         Firebase
         MongoDB
+        RocksDB
 ## Other Tools & Technologies
 
         SSIS
         SSAS
+        Polkadot
         Ubuntu
         Jupyter Notebook 
         Anaconda
