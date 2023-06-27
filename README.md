@@ -43,16 +43,13 @@ Here are some ideas to get you started:
         C/C++
         Rust
         Solidity
-        Python
+        Python 
         Java
         HTML5/CSS3/Bootstrap      
         Javascript
         JQuery
         ReactJs
         
-
-        
-
         
 
 ## Databases
