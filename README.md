@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 ## Languages
         C/C++
         Rust
+        Nodejs
+        Nestjs
         Solidity
         Python 
         Java
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
 ## Databases
         Microsoft SQL Server
         MySQL
+        Postgresql
         Firebase
         MongoDB
         RocksDB
