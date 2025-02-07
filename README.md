@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 
 ## Languages
-        C/C++
+      
         Rust
         Nodejs
         Nestjs
+        C/C++
         Solidity
         Python 
         Java
