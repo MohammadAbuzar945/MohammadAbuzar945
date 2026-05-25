@@ -37,44 +37,49 @@ Here are some ideas to get you started:
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/mohammad-a-8530831aa) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/muhammdabuzar/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://web.facebook.com/abuzarashraf945/)  -->
 
+# Hi, I'm Mohammad Abuzar 👋
 
+Backend Engineer | Rust Developer | SaaS Builder
 
-## Languages
-      
-        Rust
-        Nodejs
-        Nestjs
-        C/C++
-        Solidity
-        Python 
-        Java
-        HTML5/CSS3/Bootstrap      
-        Javascript
-        JQuery
-        ReactJs
-        
-        
+I build scalable backend systems using:
+- Rust (Rocket, Actix)
+- Node.js + PostgreSQL
+- AWS + Docker + NGINX
+- LaTeX PDF Generation Systems
+- Authentication & Document Workflows
 
-## Databases
-        Microsoft SQL Server
-        MySQL
-        Postgresql
-        Firebase
-        MongoDB
-        RocksDB
-## Other Tools & Technologies
+## 🚀 Featured Projects
 
-        SSIS
-        SSAS
-        Polkadot
-        Ubuntu
-        Jupyter Notebook 
-        Anaconda
-        Visual Studio Code
-        Microsoft Word/Excel/PowerPoint/Visio
-        Balsamiq Tool
-        CodeBlocks
-        Microsoft Project Management
+### NOMIA
+Enterprise document automation platform.
+- Rust + Rocket backend
+- Dynamic LaTeX PDF generation
+- Digital signatures
+- AWS S3 integration
+- PostgreSQL + Redis
+
+🔗 Demo:
+🔗 Repository:
+
+---
+
+### XRP NFT Marketplace
+NFT minting + wallet integration ecosystem.
+- Custom XRP Ledger integration
+- RabbitMQ event architecture
+- React + Redux frontend
+- Node.js backend
+
+🔗 Demo:
+🔗 Repository:
+
+## 🛠 Tech Stack
+Rust • Rocket • Actix • PostgreSQL • Redis • AWS • Docker • React • TypeScript • Node.js
+
+## 📫 Contact
+LinkedIn:
+Portfolio:
+Email:
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945)](https://github.com/anuraghazra/github-readme-stats)
 
