@@ -55,8 +55,7 @@ Rust • Rocket • Actix • PostgreSQL • Redis • AWS • Docker • React 
 LinkedIn: www.linkedin.com/in/abuzar945
 Portfolio:https://abuzardev.site
 Email:abuzarmohammad945@gmail.com
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
