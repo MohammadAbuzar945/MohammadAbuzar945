@@ -48,38 +48,13 @@ I build scalable backend systems using:
 - LaTeX PDF Generation Systems
 - Authentication & Document Workflows
 
-## 🚀 Featured Projects
-
-### NOMIA
-Enterprise document automation platform.
-- Rust + Rocket backend
-- Dynamic LaTeX PDF generation
-- Digital signatures
-- AWS S3 integration
-- PostgreSQL + Redis
-
-🔗 Demo:
-🔗 Repository:
-
----
-
-### XRP NFT Marketplace
-NFT minting + wallet integration ecosystem.
-- Custom XRP Ledger integration
-- RabbitMQ event architecture
-- React + Redux frontend
-- Node.js backend
-
-🔗 Demo:
-🔗 Repository:
-
 ## 🛠 Tech Stack
 Rust • Rocket • Actix • PostgreSQL • Redis • AWS • Docker • React • TypeScript • Node.js
 
 ## 📫 Contact
-LinkedIn:
-Portfolio:
-Email:
+LinkedIn: www.linkedin.com/in/abuzar945
+Portfolio:https://abuzardev.site
+Email:abuzarmohammad945@gmail.com
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945)](https://github.com/anuraghazra/github-readme-stats)
 
