@@ -1,63 +1,159 @@
-###           					                                    Hi I'm Mohammad Abuzar👋
-<br>
+<div align="center">
 
-<!--
-**MohammadAbuzar945/MohammadAbuzar945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Engineer;Rust+Developer;SaaS+Builder;Building+Scalable+Systems" alt="Typing Animation" />
 
-Here are some ideas to get you started:
+<br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->                                          
-
-![](https://komarev.com/ghpvc/?username=MohammadAbuzar945)<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23488E12&title_bg=%23625858&icon=flathub.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadAbuzar945&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/abuzar945">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/justabuzar/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://web.facebook.com/abuzarashraf945/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●-->
-
-
-<a href="https://www.linkedin.com/in/abuzar945" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/justabuzar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://web.facebook.com/abuzarashraf945/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<img src="https://komarev.com/ghpvc/?username=MohammadAbuzar945&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
+---
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/mohammad-a-8530831aa) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/muhammdabuzar/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://web.facebook.com/abuzarashraf945/)  -->
+## 👋 About Me
 
-# Hi, I'm Mohammad Abuzar 👋
+```text
+const mohammad = {
+  role: "Backend Engineer",
+  specialties: ["Rust", "Node.js", "PostgreSQL", "AWS"],
+  focus: ["Scalable APIs", "Auth Systems", "Document Workflows", "PDF Pipelines"],
+  currentlyBuilding: "Production-grade SaaS backends",
+  openTo: ["Collaboration", "Backend Architecture", "Rust Projects"],
+};
+```
 
-Backend Engineer | Rust Developer | SaaS Builder
+- 🔭 Building reliable backend systems with **Rust**, **Node.js**, and **PostgreSQL**
+- 🦀 Passionate about performance, clean architecture, and production-ready code
+- 🛠 Experienced with **AWS**, **Docker**, **NGINX**, **Redis**, and document workflows
+- 🌱 Always learning better ways to design secure, scalable services
+- 💬 Ask me about **Rust**, **backend systems**, **auth flows**, or **SaaS infrastructure**
 
-I build scalable backend systems using:
-- Rust (Rocket, Actix)
-- Node.js + PostgreSQL
-- AWS + Docker + NGINX
-- LaTeX PDF Generation Systems
-- Authentication & Document Workflows
+---
 
 ## 🛠 Tech Stack
-Rust • Rocket • Actix • PostgreSQL • Redis • AWS • Docker • React • TypeScript • Node.js
 
-## 📫 Contact
-LinkedIn: www.linkedin.com/in/abuzar945
-Portfolio:https://abuzardev.site
-Email:abuzarmohammad945@gmail.com
+<div align="center">
 
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=rust,nodejs,ts,react,postgres,redis,docker,aws,nginx,git&perline=10" alt="Tech Stack" />
 
+</div>
 
+<br />
 
+<div align="center">
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-000000?style=for-the-badge&logo=rocket&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+</div>
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend Systems**
+- REST APIs & microservices
+- Auth & authorization flows
+- High-performance data layers
+
+</td>
+<td width="50%">
+
+**Product Infrastructure**
+- SaaS-ready deployments
+- Document & PDF pipelines
+- Cloud-native architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 GitHub Highlights
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MohammadAbuzar945&theme=onedark&no-bg=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadAbuzar945&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbuzar945&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAbuzar945&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/MohammadAbuzar945/MohammadAbuzar945/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💡 Currently Focused On
+
+```diff
++ Building scalable SaaS backends
++ Rust-based high-performance services
++ Secure authentication & document workflows
++ Cloud deployments with Docker + AWS
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abuzardev.site-0A0A0A?style=for-the-badge)](https://abuzardev.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar945)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justabuzar/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/abuzarashraf945/)
+[![Email](https://img.shields.io/badge/Email-abuzarmohammad945@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuzarmohammad945@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Open to collaboration on backend systems, Rust projects, and SaaS products.**
+
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br /><br />
+
+⭐️ From [MohammadAbuzar945](https://github.com/MohammadAbuzar945)
+
+</div>
