@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Engineer;Rust+Developer;SaaS+Builder;Building+Scalable+Systems" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend-Focused;Rust+Developer;SaaS+Builder" alt="Typing Animation" />
 
 <br /><br />
 
@@ -12,21 +12,34 @@
 
 ## 👋 About Me
 
-```text
-const mohammad = {
-  role: "Backend Engineer",
-  specialties: ["Rust", "Node.js", "PostgreSQL", "AWS"],
-  focus: ["Scalable APIs", "Auth Systems", "Document Workflows", "PDF Pipelines"],
-  currentlyBuilding: "Production-grade SaaS backends",
-  openTo: ["Collaboration", "Backend Architecture", "Rust Projects"],
+```rust
+struct Mohammad {
+    role: &'static str,
+    specialties: &'static [&'static str],
+    focus: &'static [&'static str],
+    currently_building: &'static str,
+    open_to: &'static [&'static str],
+}
+
+const MOHAMMAD: Mohammad = Mohammad {
+    role: "Full Stack Engineer (Backend-focused)",
+    specialties: &["Rust", "Node.js", "PostgreSQL", "AWS", "LaTeX"],
+    focus: &[
+        "Scalable APIs",
+        "Auth Systems",
+        "Document Workflows",
+        "LaTeX PDF Generation",
+    ],
+    currently_building: "Production-grade full stack SaaS applications",
+    open_to: &["Collaboration", "Backend Architecture", "Rust Projects"],
 };
 ```
 
-- 🔭 Building reliable backend systems with **Rust**, **Node.js**, and **PostgreSQL**
-- 🦀 Passionate about performance, clean architecture, and production-ready code
-- 🛠 Experienced with **AWS**, **Docker**, **NGINX**, **Redis**, and document workflows
-- 🌱 Always learning better ways to design secure, scalable services
-- 💬 Ask me about **Rust**, **backend systems**, **auth flows**, or **SaaS infrastructure**
+- 🔭 Building **full stack** applications with a strong **backend-first** mindset
+- 🦀 Core stack: **Rust**, **Node.js**, **PostgreSQL**, **React**, and **TypeScript**
+- 🛠 Experienced with **AWS**, **Docker**, **NGINX**, **Redis**, **LaTeX PDF generation**, and document workflows
+- 🌱 Turning complex backend logic into reliable, user-facing products
+- 💬 Ask me about **Rust**, **backend architecture**, **LaTeX PDF systems**, **full stack systems**, or **SaaS infrastructure**
 
 ---
 
@@ -54,6 +67,7 @@ const mohammad = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=overleaf&logoColor=white)
 
 </div>
 
@@ -65,15 +79,18 @@ const mohammad = {
 <tr>
 <td width="50%">
 
-**Backend Systems**
-- REST APIs & microservices
-- Auth & authorization flows
-- High-performance data layers
+**Full Stack Products**
+- React & TypeScript frontends
+- End-to-end feature delivery
+- Backend-driven user experiences
 
 </td>
 <td width="50%">
 
-**Product Infrastructure**
+**Backend & Infrastructure**
+- REST APIs & microservices
+- Auth & authorization flows
+- LaTeX-based PDF generation systems
 - SaaS-ready deployments
 - Document & PDF pipelines
 - Cloud-native architecture
@@ -122,10 +139,10 @@ const mohammad = {
 ## 💡 Currently Focused On
 
 ```diff
-+ Building scalable SaaS backends
++ Full stack SaaS applications with backend-first architecture
 + Rust-based high-performance services
-+ Secure authentication & document workflows
-+ Cloud deployments with Docker + AWS
++ LaTeX-based PDF generation & document workflows
++ Secure authentication & cloud deployments with Docker + AWS
 ```
 
 ---
@@ -146,7 +163,7 @@ const mohammad = {
 
 <div align="center">
 
-**Open to collaboration on backend systems, Rust projects, and SaaS products.**
+**Open to collaboration on full stack products, backend systems, Rust projects, and SaaS builds.**
 
 <br />
 
